@@ -1,5 +1,11 @@
 # HelloApp
 
+# Phoenix Tutorial
+
+## "hello, world!"
+
+This is the first application for the Phoenix Tutorial by Binh Tran.
+
 To start your Phoenix server:
 
 * Run `mix setup` to install and setup dependencies
